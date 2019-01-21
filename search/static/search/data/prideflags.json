@@ -439,6 +439,83 @@
                 "flagImageSource": "Philadelphia Pride Flag.svg. (2017, June 15). In Wikimedia Commons. Retrieved December 23, 2018, from [commons.wikimedia.org](https://commons.wikimedia.org/w/index.php?title=File:Philadelphia_Pride_Flag.svg&oldid=295701800)",
                 "firstAuthoring": "More Color More Pride. (n.d.). More Color More Pride. Retrieved December 23, 2018, from [morecolormorepride.com](https://morecolormorepride.com/)"
             }
+        },
+        {
+            "colors": [
+                "purple",
+                "white"
+            ],
+            "stripes": 3,
+            "shapes": false,
+            "name": "Gender Nonconforming/Gender Creative Pride Flag",
+            "src": "/static/search/data/img/gendercreative_pride_flag.svg",
+            "citation": {
+                "text": "\"Gender variance, or gender nonconformity, is behavior or gender expression by an individual that does not match masculine and feminine gender norms. People who exhibit gender variance may be called gender variant, gender non-conforming, gender diverse, gender atypical or genderqueer, and may be transgender or otherwise variant in their gender identity. In the case of transgender people, they may be perceived, or perceive themselves as, gender nonconforming before transitioning, but might not be perceived as such after transitioning. Some intersex people may also exhibit gender variance.\" [1]",
+                "sourceList": [
+                    "Gender-variant. (2017, Feb 1). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/Gender-variant?oldid=26913)"
+                ],
+                "flagImageSource": "Gender Creative Flag.jpg. (2017, Mar 22). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/File:Gender_Creative_Flag.jpg?oldid=27510)",
+                "firstAuthoring": false
+            }
+        },
+        {
+            "colors": [
+                "pink",
+                "white",
+                "blue"
+            ],
+            "stripes": 6,
+            "shapes": false,
+            "name": "Intersex Pride Flag",
+            "src": "/static/search/data/img/intersex_pride_flag_phox.svg",
+            "citation": {
+                "text": "\"Intersex people are born with any of several variations in sex characteristics including chromosomes, gonads, sex hormones, or genitals that, according to the UN Office of the High Commissioner for Human Rights, \"do not fit the typical definitions for male or female bodies\". Such variations may involve genital ambiguity, and combinations of chromosomal genotype and sexual phenotype other than XY-male and XX-female.\" [1]",
+                "sourceList": [
+                    "Intersex. (2018, Sep 11). In Wikipedia. Retrieved December 24, 2018, from [en.wikipedia.org](hhttps://en.wikipedia.org/w/index.php?title=Intersex&oldid=874876499)"
+                ],
+                "flagImageSource": "Intersexflag.jpg. (2015, Jun 23). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/File:Intersexflag.jpg?oldid=11641)",
+                "firstAuthoring": false
+            }
+        },
+        {
+            "colors": [
+                "yellow",
+                "purple",
+                "pink",
+                "blue",
+                "white"
+            ],
+            "stripes": 6,
+            "shapes": true,
+            "name": "Trans-Intersex Pride Flag",
+            "src": "/static/search/data/img/trans_intersex_pride_flag.svg",
+            "citation": {
+                "text": "\"Intersex people are born with any of several variations in sex characteristics including chromosomes, gonads, sex hormones, or genitals that, according to the UN Office of the High Commissioner for Human Rights, \"do not fit the typical definitions for male or female bodies\". Such variations may involve genital ambiguity, and combinations of chromosomal genotype and sexual phenotype other than XY-male and XX-female.\" [1] \"The transgender pride flag has been inserted within the circle of the intersex pride flag to signify the inner identities of intersex people who do not identify with the gender their doctors and/or parents assigned them at birth.\" [2]",
+                "sourceList": [
+                    "Intersex. (2018, Sep 11). In Wikipedia. Retrieved December 24, 2018, from [en.wikipedia.org](hhttps://en.wikipedia.org/w/index.php?title=Intersex&oldid=874876499)",
+                    "Pride Flags. (2015, Apr 9). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/Pride_Flags?oldid=32841)"
+                ],
+                "flagImageSource": "Intersexflag.jpg. (2015, Jun 23). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/File:Intersexflag.jpg?oldid=11641)",
+                "firstAuthoring": false
+            }
+        },
+        {
+            "colors": [
+                "black",
+                "white"
+            ],
+            "stripes": 3,
+            "shapes": false,
+            "name": "Agender Pride Flag",
+            "src": "/static/search/data/img/agender_pride_flag_parable.svg",
+            "citation": {
+                "text": "\"An agender person... is someone who identifies as having no gender or being without a gender identity. Although this category includes a broad range of identities which do not conform to traditional gender norms, scholar Finn Enke states that people who identify with any of these positions may not necessarily self-identify as transgender. Agender people have no specific set of pronouns; singular they is typically used, but it is not the default.\" [1]",
+                "sourceList": [
+                    "Genderqueer. (2018, July 8). In Wikipedia. Retrieved December 23, 2018, from [en.wikipedia.org](https://en.wikipedia.org/w/index.php?title=Genderqueer&oldid=874316981)"
+                ],
+                "flagImageSource": "Agender Flag large.png. (2015, Jan 10). In Gender Wiki. Retrieved January 20, 2019, from [gender.wikia.com](http://gender.wikia.com/wiki/File:Agender_Flag_large.png?oldid=29002)",
+                "firstAuthoring": false
+            }
         }
     ]
 }
